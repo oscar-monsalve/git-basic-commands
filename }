@@ -124,8 +124,3 @@ git gc
 ```shell
 git stash
 ```
-
-- Reapply previously stashed changes:
-```shell
-git stash apply
-```
