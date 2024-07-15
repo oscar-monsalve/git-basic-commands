@@ -13,3 +13,9 @@ Initialize a new git repository:
 ```shell
 git init
 ```
+
+Set configuration values for your username and email:
+```shell
+git config --global user.name <your-name>
+git config --global user.email <your-email>
+```
