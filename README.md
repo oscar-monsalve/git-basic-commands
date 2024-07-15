@@ -12,4 +12,4 @@
 Initialize a new git repository:
 ```shell
 git init
-``
+```
