@@ -2,8 +2,6 @@
 
 0. Test the SSH key:
 
-```
-```
 ```shell
 ssh -T git@github.com
 ```
